@@ -1,0 +1,15 @@
+
+# MongoDB connection URL. Example:
+# MONGODB_URL = mongodb://user-name:password@host:27017/database
+MONGODB_URL = mongodb://127.0.0.1:27017/nodejs-lib-test
+SESSION_STORAGE=redis://127.0.0.1:6379?ttl=14400
+SESSION_SECRET=Session Secret 428
+
+SERVER_HOST=127.0.0.1
+SERVER_PORT=13032
+
+# Base Domain
+BASE_DOMAIN = localhost:13032
+SUPPORT_EMAIL = support@nodejs-lib.com
+BASE_URL=//localhost:13032
+SSL_ALLOWED=false

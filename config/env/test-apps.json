@@ -1,0 +1,8 @@
+{
+    "applications": [
+        {
+            "name" : "appSimple",
+            "path" : "nodejs-app-sample"
+        }
+    ]
+}
