@@ -46,6 +46,8 @@ module.exports = {
     PkgClient: require('./lib/pkgclient.js'),
     QueueClient: require('./lib/queueclient.js'),
     QueueServer: require('./lib/queueserver.js'),
+    QueueClient2: require('./lib/queueclient-2'),
+    QueueServer2: require('./lib/queueserver-2'),
     ViewType: require('./lib/view/view.js').ViewType,
     View: require('./lib/view/view.js').View
 };

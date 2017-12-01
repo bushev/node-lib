@@ -1,6 +1,6 @@
 {
   "name": "nodejs-lib",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "dependencies": {
     "async": "2.6.0",
     "bcrypt-nodejs": "0.0.3",
@@ -22,6 +22,7 @@
     "jsonwebtoken": "8.1.0",
     "juice": "4.2.2",
     "kraken": "0.3.3",
+    "kue": "0.11.6",
     "lodash": "4.17.4",
     "mailgun-js": "0.13.1",
     "mandrill-api": "1.0.45",
@@ -30,9 +31,9 @@
     "mongoose": "4.13.5",
     "mongoose-deep-populate": "3.0.0",
     "mongoose-type-email": "1.0.5",
-    "nodejs-monq": "0.3.3",
     "multiparty": "4.1.3",
     "mysql": "2.15.0",
+    "nodejs-monq": "0.3.3",
     "object-path": "0.11.4",
     "passport": "0.4.0",
     "pkgcloud": "1.5.0",
