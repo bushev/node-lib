@@ -26,6 +26,7 @@
     "lodash": "4.17.4",
     "mailgun-js": "0.13.1",
     "mandrill-api": "1.0.45",
+    "md5": "2.2.1",
     "merge": "1.2.0",
     "moment": "2.19.3",
     "mongodb": "2.2.33",
@@ -40,6 +41,7 @@
     "pkgcloud": "1.5.0",
     "randomstring": "1.1.5",
     "redis": "2.8.0",
+    "request": "2.83.0",
     "swig-lodash": "1.2.1",
     "swig-templates": "2.0.2",
     "typings": "2.1.1",
@@ -49,7 +51,6 @@
   },
   "devDependencies": {
     "mocha": "4.0.1",
-    "request": "2.83.0",
     "should": "13.1.3"
   },
   "engines": {
