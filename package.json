@@ -28,6 +28,7 @@
     "mandrill-api": "1.0.45",
     "merge": "1.2.0",
     "moment": "2.19.3",
+    "mongodb": "2.2.33",
     "mongoose": "4.13.5",
     "mongoose-deep-populate": "3.0.0",
     "mongoose-type-email": "1.0.5",
