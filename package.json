@@ -41,6 +41,7 @@
     "pkgcloud": "1.5.0",
     "randomstring": "1.1.5",
     "redis": "2.8.0",
+    "reds": "1.0.0",
     "request": "2.83.0",
     "swig-lodash": "1.2.1",
     "swig-templates": "2.0.2",
