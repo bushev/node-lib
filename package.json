@@ -1,6 +1,6 @@
 {
   "name": "nodejs-lib",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "dependencies": {
     "async": "2.6.1",
     "bcrypt-nodejs": "0.0.3",
