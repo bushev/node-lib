@@ -1,6 +1,6 @@
 {
   "name": "nodejs-lib",
-  "version": "2.5.4",
+  "version": "2.6.0",
   "dependencies": {
     "async": "2.6.1",
     "bcrypt-nodejs": "0.0.3",
@@ -31,7 +31,7 @@
     "moment": "2.23.0",
     "mongodb": "3.1.10",
     "mongodb-uri": "0.9.7",
-    "mongoose": "5.4.2",
+    "mongoose": "5.5.2",
     "mongoose-deep-populate": "3.1.1",
     "mongoose-type-email": "1.0.10",
     "multiparty": "4.2.1",
