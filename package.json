@@ -41,7 +41,7 @@
     "passport": "0.4.0",
     "pkgcloud": "1.7.0",
     "randomstring": "1.1.5",
-    "redis": "2.8.0",
+    "redis": "3.1.1",
     "reds": "1.0.0",
     "request": "2.88.0",
     "swig-lodash": "1.2.1",
