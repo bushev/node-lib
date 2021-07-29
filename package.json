@@ -37,7 +37,7 @@
     "multiparty": "4.2.1",
     "mysql": "2.16.0",
     "nodejs-monq": "0.3.3",
-    "object-path": "0.11.4",
+    "object-path": "0.11.5",
     "passport": "0.4.0",
     "pkgcloud": "1.7.0",
     "randomstring": "1.1.5",
