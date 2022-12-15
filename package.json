@@ -14,7 +14,7 @@
     "event-stream": "4.0.1",
     "excel-parser": "0.2.2",
     "exceljs": "1.6.3",
-    "express": "4.16.4",
+    "express": "4.17.3",
     "express-flash": "0.0.2",
     "express-session": "1.15.6",
     "gm": "1.23.1",
